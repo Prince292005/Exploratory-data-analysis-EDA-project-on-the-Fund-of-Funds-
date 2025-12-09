@@ -1,4 +1,4 @@
-# Exploratory-data-analysis-EDA-project-on-the-Fund-of-Funds-
+# Exploratory data analysis(EDA) project on the Fund of Funds 
  This project analyzes 10 years of Fund of Funds (FoF) NAV data to study long‑term trends, compare Domestic and Overseas fund performance, and evaluate risk, volatility, and stability. Through detailed data cleaning, visualization, and feature engineering, the project identifies key behavioural patterns in FoFs. A 30-day LSTM time-series model is used to capture sequential NAV movements and generate accurate 14-day forecasts. Overall, the project provides a comprehensive data-driven pipeline from analysis to prediction, offering clear insights into FoF performance and future NAV behaviour.
 
 ---
